@@ -1,12 +1,12 @@
-#SQLAlchemy-Lab##
+#SQLAlchemy-Lab#
 
 This is a very short kept collection
 of code snippets for me to learn 
 and play with SQLAlchemy, a ORM for Python
 
 ##Uses Versions:##
-Python 2.7.3
-SQLAlchemy: 0.7.4
+  * Python 2.7.3
+  * SQLAlchemy: 0.7.4
 
 ##Prepare Postgresql##
 
