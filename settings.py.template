@@ -1,0 +1,13 @@
+#!/usr/bin/python 
+# -*- coding: utf-8
+
+# because we have some sensitive data in here,
+# configuration is in extra file and must not be
+# checked into version control.
+
+# SQLAlchemy connection string:
+connection_url='postgresql://user:password@localhost/database'
+
+#For sqlite, use:
+# 'sqlite:///sqlalchemy_lab.db'
+ 
